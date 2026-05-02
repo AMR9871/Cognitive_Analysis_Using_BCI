@@ -1,10 +1,7 @@
 # NEURO-CORE | WAVEFORM ANALYTICS ⚡
 
 A futuristic real-time **EEG Brainwave Analysis Dashboard** built with Flask, MNE-Python, and SciPy. Visualizes neural oscillations (Delta, Theta, Alpha, Beta, Gamma) with stunning cyberpunk aesthetics.
-
-![NEURO-CORE Screenshot](https://via.placeholder.com/800x400/050505/00f2ff?text=NEURO-CORE+Dashboard)  
-*(Add a real screenshot here after running the app)*
-
+ 
 ---
 
 ## ✨ Features
