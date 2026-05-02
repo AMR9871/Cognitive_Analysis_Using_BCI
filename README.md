@@ -1,4 +1,3 @@
-# Cognitive_Analysis_Using_BCI
 # NEURO-CORE | WAVEFORM ANALYTICS ⚡
 
 A futuristic real-time **EEG Brainwave Analysis Dashboard** built with Flask, MNE-Python, and SciPy. Visualizes neural oscillations (Delta, Theta, Alpha, Beta, Gamma) with stunning cyberpunk aesthetics.
